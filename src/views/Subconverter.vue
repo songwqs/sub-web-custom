@@ -218,11 +218,6 @@ export default {
             label: "DLC",
             options: [
               {
-                label:"Konrad自用分流，（Github：MegaSuite）",
-                value:
-                "https://raw.githubusercontent.com/MegaSuite/Clash-Configs/main/Policy/ClashGeneral.ini"
-              },
-              {
                 label: "ACL4SSR_Online 默认版 分组比较全 (与Github同步)",
                 value:
                   "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
